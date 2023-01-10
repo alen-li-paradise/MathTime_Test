@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.liguangming.Shadowrocket</string>
+                     <string>com.c7new.stage</string>
                      <key>bundle-version</key>
-                    <string>2.1.23</string>
+                    <string>7.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Shadowrocket</string>
+                    <string>C7-new-STAGE</string>
                 </dict>
             </dict>
         </array>
