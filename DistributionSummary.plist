@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MathTime.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>3</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4F64B44600FDFC827BD8CD23E942C88E25EEB122</string>
+				<key>dateExpires</key>
+				<string>2023/7/15</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>H522JGR2Y5.com.c7new.stage</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>H522JGR2Y5</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>MathTime.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e5a0e6ec-4ef6-47c2-827d-91dc2e26ab57</string>
+				<key>dateExpires</key>
+				<string>2023/7/15</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.c7new.stage</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>H522JGR2Y5</string>
+				<key>name</key>
+				<string>WenXuan Lai</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>7.0.0</string>
+		</dict>
+	</array>
+	 <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://drive.google.com/u/0/uc?id=18ySaOvkgIHc73UB6vAqPXQygQSyFo9Zc&export=download&confirm=t&uuid=64368343-2aed-4905-8208-e615578c7739&at=ACjLJWk1Z7QKBhJdPO4LRWTfsc0s:1673323299044</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                     <string>com.c7new.stage</string>
+                     <key>bundle-version</key>
+                    <string>7.0.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>Math Time</string>
+                </dict>
+            </dict>
+        </array>
+</dict>
+</plist>

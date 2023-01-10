@@ -1,0 +1,1148 @@
+2023-01-07 03:46:22 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fd583a103a0; archive(resolved)="<IDEArchive: 0x7fd5965fb580>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fd583a103a0; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fd583a0ab30; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd577a7ed80; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd5948a6de0; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd5796f4320; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd5811dfc80; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd5839ad470; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd57f0b5ca0; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd5810d9c50; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd5850a3c30; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd57a7eb480; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd583a90880; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd57a65a9e0; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fd595e92ea0; teamID='H522JGR2Y5', teamName='WenXuan Lai', teamType='Individual', username='vincent_lai0102@outlook.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fd57a658a10; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="(null)">
+	<IDEDistributionContext: 0x7fd5821e77b0; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="<IDEDistributionMethodiOSAppStoreDistribution: 0x7fd56ffc4c50>", team="(null)">
+	<IDEDistributionContext: 0x7fd583a97b30; archive = "<IDEArchive: 0x7fd5965fb580>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fd583a103a0>
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionCopyItemStep
+2023-01-07 03:46:22 +0000  Running /usr/bin/ditto '-V' '/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app'
+2023-01-07 03:46:22 +0000  >>> Copying /Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app 
+2023-01-07 03:46:22 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-01-07 03:46:22 +0000  36480 bytes for ./_CodeSignature/CodeResources
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/de.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  635 bytes for ./GT3Captcha.bundle/de.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/ar.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  710 bytes for ./GT3Captcha.bundle/ar.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/ja.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  509 bytes for ./GT3Captcha.bundle/ja.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/zh-TW.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  458 bytes for ./GT3Captcha.bundle/zh-TW.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/iw.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  600 bytes for ./GT3Captcha.bundle/iw.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/en.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  317 bytes for ./GT3Captcha.bundle/en.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/uk.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  758 bytes for ./GT3Captcha.bundle/uk.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/zh-HK.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  454 bytes for ./GT3Captcha.bundle/zh-HK.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/es.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  579 bytes for ./GT3Captcha.bundle/es.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/da.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  595 bytes for ./GT3Captcha.bundle/da.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/resource.js ... 
+2023-01-07 03:46:22 +0000  195428 bytes for ./GT3Captcha.bundle/resource.js
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/it.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  553 bytes for ./GT3Captcha.bundle/it.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/bg.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  702 bytes for ./GT3Captcha.bundle/bg.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/sk.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  687 bytes for ./GT3Captcha.bundle/sk.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/sr.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  653 bytes for ./GT3Captcha.bundle/sr.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/sv.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  615 bytes for ./GT3Captcha.bundle/sv.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/cs.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  679 bytes for ./GT3Captcha.bundle/cs.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/ko.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  532 bytes for ./GT3Captcha.bundle/ko.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/hu.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  753 bytes for ./GT3Captcha.bundle/hu.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/Assets.car ... 
+2023-01-07 03:46:22 +0000  73087 bytes for ./GT3Captcha.bundle/Assets.car
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/tr.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  627 bytes for ./GT3Captcha.bundle/tr.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/pl.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  691 bytes for ./GT3Captcha.bundle/pl.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/vi.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  664 bytes for ./GT3Captcha.bundle/vi.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/ru.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  680 bytes for ./GT3Captcha.bundle/ru.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/zh-CN.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  482 bytes for ./GT3Captcha.bundle/zh-CN.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/fr.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  653 bytes for ./GT3Captcha.bundle/fr.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/fi.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  620 bytes for ./GT3Captcha.bundle/fi.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/id.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  569 bytes for ./GT3Captcha.bundle/id.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/nl.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  600 bytes for ./GT3Captcha.bundle/nl.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/th.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  686 bytes for ./GT3Captcha.bundle/th.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/pt.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  561 bytes for ./GT3Captcha.bundle/pt.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/ro.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:22 +0000  665 bytes for ./GT3Captcha.bundle/ro.lproj/GT3Captcha.strings
+2023-01-07 03:46:22 +0000  copying file ./GT3Captcha.bundle/Info.plist ... 
+2023-01-07 03:46:22 +0000  817 bytes for ./GT3Captcha.bundle/Info.plist
+2023-01-07 03:46:22 +0000  copying file ./GTCaptcha4.bundle/en.lproj/GTCaptcha4.strings ... 
+2023-01-07 03:46:22 +0000  380 bytes for ./GTCaptcha4.bundle/en.lproj/GTCaptcha4.strings
+2023-01-07 03:46:22 +0000  copying file ./GTCaptcha4.bundle/gt4-loading.gif ... 
+2023-01-07 03:46:22 +0000  28287 bytes for ./GTCaptcha4.bundle/gt4-loading.gif
+copying file ./GTCaptcha4.bundle/gt4-index.html ... 
+2023-01-07 03:46:22 +0000  12032 bytes for ./GTCaptcha4.bundle/gt4-index.html
+2023-01-07 03:46:22 +0000  copying file ./GTCaptcha4.bundle/zh-CN.lproj/GTCaptcha4.strings ... 
+2023-01-07 03:46:22 +0000  528 bytes for ./GTCaptcha4.bundle/zh-CN.lproj/GTCaptcha4.strings
+2023-01-07 03:46:22 +0000  copying file ./GTCaptcha4.bundle/Info.plist ... 
+2023-01-07 03:46:22 +0000  816 bytes for ./GTCaptcha4.bundle/Info.plist
+2023-01-07 03:46:22 +0000  copying file ./GTCaptcha4.bundle/gt4.js ... 
+2023-01-07 03:46:22 +0000  13512 bytes for ./GTCaptcha4.bundle/gt4.js
+2023-01-07 03:46:22 +0000  copying file ./AppIcon60x60@2x.png ... 
+2023-01-07 03:46:22 +0000  21459 bytes for ./AppIcon60x60@2x.png
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:22 +0000  489 bytes for ./IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings ... 
+2023-01-07 03:46:22 +0000  479 bytes for ./IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings ... 
+2023-01-07 03:46:22 +0000  479 bytes for ./IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:22 +0000  474 bytes for ./IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:22 +0000  496 bytes for ./IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings
+copying file ./IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png ... 
+2023-01-07 03:46:22 +0000  1786 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png
+copying file ./IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png ... 
+2023-01-07 03:46:22 +0000  2164 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png ... 
+2023-01-07 03:46:22 +0000  1769 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png
+copying file ./IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png ... 
+2023-01-07 03:46:22 +0000  1844 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png ... 
+2023-01-07 03:46:22 +0000  1815 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:22 +0000  497 bytes for ./IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png ... 
+2023-01-07 03:46:22 +0000  2177 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png
+2023-01-07 03:46:22 +0000  copying file ./IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png ... 
+2023-01-07 03:46:22 +0000  1764 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png
+copying file ./IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png ... 
+2023-01-07 03:46:22 +0000  1793 bytes for ./IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png
+copying file ./MathTime ... 
+2023-01-07 03:46:22 +0000  10364288 bytes for ./MathTime
+2023-01-07 03:46:22 +0000  copying file ./AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+2023-01-07 03:46:22 +0000  530 bytes for ./AccessibilityResources.bundle/en.lproj/Localizable.strings
+2023-01-07 03:46:22 +0000  copying file ./AccessibilityResources.bundle/Info.plist ... 
+2023-01-07 03:46:22 +0000  745 bytes for ./AccessibilityResources.bundle/Info.plist
+2023-01-07 03:46:22 +0000  copying file ./Assets.car ... 
+2023-01-07 03:46:22 +0000  4091791 bytes for ./Assets.car
+2023-01-07 03:46:22 +0000  copying file ./main.jsbundle ... 
+2023-01-07 03:46:22 +0000  2812596 bytes for ./main.jsbundle
+copying file ./bgm.mp3 ... 
+2023-01-07 03:46:22 +0000  239178 bytes for ./bgm.mp3
+2023-01-07 03:46:22 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-01-07 03:46:22 +0000  2492 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-01-07 03:46:22 +0000  copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-01-07 03:46:22 +0000  896 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-01-07 03:46:22 +0000  copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2023-01-07 03:46:22 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/index.html ... 
+2023-01-07 03:46:22 +0000  4324 bytes for ./mathtime.bundle/index.html
+copying file ./mathtime.bundle/loading-logo.png ... 
+2023-01-07 03:46:22 +0000  11230 bytes for ./mathtime.bundle/loading-logo.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_s_button3-sheet0.png ... 
+2023-01-07 03:46:22 +0000  1842 bytes for ./mathtime.bundle/images/spr_s_button3-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spri_black-sheet0.png ... 
+2023-01-07 03:46:22 +0000  44919 bytes for ./mathtime.bundle/images/spri_black-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/tiledbackground.png ... 
+2023-01-07 03:46:22 +0000  15065 bytes for ./mathtime.bundle/images/tiledbackground.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_b_button-sheet0.png ... 
+2023-01-07 03:46:22 +0000  29941 bytes for ./mathtime.bundle/images/spr_b_button-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/sprite3-sheet0.png ... 
+2023-01-07 03:46:22 +0000  170 bytes for ./mathtime.bundle/images/sprite3-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_b_title2-sheet0.png ... 
+2023-01-07 03:46:22 +0000  7744 bytes for ./mathtime.bundle/images/spr_b_title2-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_false-sheet0.png ... 
+2023-01-07 03:46:22 +0000  22426 bytes for ./mathtime.bundle/images/spr_false-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_true-sheet0.png ... 
+2023-01-07 03:46:22 +0000  18772 bytes for ./mathtime.bundle/images/spr_true-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_s_button2-sheet0.png ... 
+2023-01-07 03:46:22 +0000  7057 bytes for ./mathtime.bundle/images/spr_s_button2-sheet0.png
+copying file ./mathtime.bundle/images/spr_b_title-sheet0.png ... 
+2023-01-07 03:46:22 +0000  11392 bytes for ./mathtime.bundle/images/spr_b_title-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_s_button-sheet0.png ... 
+2023-01-07 03:46:22 +0000  35899 bytes for ./mathtime.bundle/images/spr_s_button-sheet0.png
+copying file ./mathtime.bundle/images/spr_s_title-sheet0.png ... 
+2023-01-07 03:46:22 +0000  6071 bytes for ./mathtime.bundle/images/spr_s_title-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/sprite-sheet0.png ... 
+2023-01-07 03:46:22 +0000  2049 bytes for ./mathtime.bundle/images/sprite-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/sprite2-sheet0.png ... 
+2023-01-07 03:46:22 +0000  428156 bytes for ./mathtime.bundle/images/sprite2-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/images/spr_b_title3-sheet0.png ... 
+2023-01-07 03:46:22 +0000  68584 bytes for ./mathtime.bundle/images/spr_b_title3-sheet0.png
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/jquery-3.4.1.min.js ... 
+2023-01-07 03:46:22 +0000  88145 bytes for ./mathtime.bundle/jquery-3.4.1.min.js
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/c2runtime.js ... 
+2023-01-07 03:46:22 +0000  231267 bytes for ./mathtime.bundle/c2runtime.js
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/data.js ... 
+2023-01-07 03:46:22 +0000  19269 bytes for ./mathtime.bundle/data.js
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/.vscode/settings.json ... 
+2023-01-07 03:46:22 +0000  40 bytes for ./mathtime.bundle/.vscode/settings.json
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/appmanifest.json ... 
+2023-01-07 03:46:22 +0000  547 bytes for ./mathtime.bundle/appmanifest.json
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/media/win1.ogg ... 
+2023-01-07 03:46:22 +0000  21041 bytes for ./mathtime.bundle/media/win1.ogg
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/media/win2.ogg ... 
+2023-01-07 03:46:22 +0000  25083 bytes for ./mathtime.bundle/media/win2.ogg
+copying file ./mathtime.bundle/media/success0.ogg ... 
+2023-01-07 03:46:22 +0000  31756 bytes for ./mathtime.bundle/media/success0.ogg
+copying file ./mathtime.bundle/media/punch-sound.ogg ... 
+2023-01-07 03:46:22 +0000  9684 bytes for ./mathtime.bundle/media/punch-sound.ogg
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/media/brbr.ogg ... 
+2023-01-07 03:46:22 +0000  16435 bytes for ./mathtime.bundle/media/brbr.ogg
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/media/bubble0.ogg ... 
+2023-01-07 03:46:22 +0000  5495 bytes for ./mathtime.bundle/media/bubble0.ogg
+2023-01-07 03:46:22 +0000  copying file ./mathtime.bundle/media/poc1.ogg ... 
+2023-01-07 03:46:22 +0000  5450 bytes for ./mathtime.bundle/media/poc1.ogg
+copying file ./mathtime.bundle/media/gameovercute0.ogg ... 
+2023-01-07 03:46:22 +0000  19912 bytes for ./mathtime.bundle/media/gameovercute0.ogg
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2023-01-07 03:46:22 +0000  335072 bytes for ./Frameworks/libswiftCoreImage.dylib
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2023-01-07 03:46:22 +0000  400112 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2023-01-07 03:46:22 +0000  23297568 bytes for ./Frameworks/libswiftCore.dylib
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+857648 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+copying file ./Frameworks/libswiftUIKit.dylib ... 
+2023-01-07 03:46:22 +0000  655616 bytes for ./Frameworks/libswiftUIKit.dylib
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2023-01-07 03:46:22 +0000  395696 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2023-01-07 03:46:22 +0000  1377360 bytes for ./Frameworks/libswiftDispatch.dylib
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2023-01-07 03:46:22 +0000  396976 bytes for ./Frameworks/libswiftos.dylib
+2023-01-07 03:46:22 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2023-01-07 03:46:22 +0000  335280 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+copying file ./Frameworks/libswiftDarwin.dylib ... 
+2023-01-07 03:46:22 +0000  499744 bytes for ./Frameworks/libswiftDarwin.dylib
+copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2023-01-07 03:46:22 +0000  338256 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2023-01-07 03:46:22 +0000  11552336 bytes for ./Frameworks/libswiftFoundation.dylib
+2023-01-07 03:46:22 +0000  copying file ./embedded.mobileprovision ... 
+29781 bytes for ./embedded.mobileprovision
+2023-01-07 03:46:22 +0000  copying file ./assets/app.json ... 
+2023-01-07 03:46:22 +0000  53 bytes for ./assets/app.json
+2023-01-07 03:46:22 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2023-01-07 03:46:22 +0000  761 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+2023-01-07 03:46:22 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2023-01-07 03:46:22 +0000  405 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+2023-01-07 03:46:22 +0000  copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2023-01-07 03:46:22 +0000  290 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+copying file ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2023-01-07 03:46:22 +0000  913 bytes for ./assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2023-01-07 03:46:22 +0000  copying file ./assets/Assets/loading.gif ... 
+2023-01-07 03:46:22 +0000  37021 bytes for ./assets/Assets/loading.gif
+2023-01-07 03:46:22 +0000  copying file ./assets/Assets/nameC.png ... 
+2023-01-07 03:46:22 +0000  15665 bytes for ./assets/Assets/nameC.png
+2023-01-07 03:46:22 +0000  copying file ./assets/Assets/startC.png ... 
+2023-01-07 03:46:22 +0000  6803 bytes for ./assets/Assets/startC.png
+2023-01-07 03:46:22 +0000  copying file ./assets/Assets/bg.png ... 
+2023-01-07 03:46:22 +0000  180359 bytes for ./assets/Assets/bg.png
+2023-01-07 03:46:22 +0000  copying file ./Info.plist ... 
+2023-01-07 03:46:22 +0000  1967 bytes for ./Info.plist
+2023-01-07 03:46:22 +0000  copying file ./PkgInfo ... 
+2023-01-07 03:46:22 +0000  8 bytes for ./PkgInfo
+2023-01-07 03:46:22 +0000  /usr/bin/ditto exited with 0
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd5834dcb20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5839bc780; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577eeaf30; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd583a6c5e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58aa73c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57ae5ed60; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd579124700; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58ee45ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577064430; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd57a6a7370; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579673580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56abdcf90; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd580456ba0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577172ac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577055650; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd58409e030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd567f2d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56abdcf90; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd5787b51c0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5843f3630; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577064510; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd58271e220; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579180d00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd580b8bbf0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd56f472280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577ae7e10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd595c53e20; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd595cd72a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5964a7e20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57701e350; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd580421e20; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583a7c1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5770ac220; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fd583a801a0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd580c923c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577049490; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib".
+2023-01-07 03:46:22 +0000  No Info.plist file URL found for item at path "/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib".
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionItemRemovalStep
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-01-07 03:46:22 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-01-07 03:46:22 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-01-07 03:46:22 +0000  Processing step: IDEDistributionSymbolsStep
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftCore.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftCoreImage.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftDarwin.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftDispatch.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftFoundation.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftMetal.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftUIKit.dylib
+2023-01-07 03:46:23 +0000  Excluding symbols for libswiftos.dylib
+2023-01-07 03:46:23 +0000  Processing symbols for MathTime.app
+2023-01-07 03:46:23 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app' '--link-dest' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs'
+2023-01-07 03:46:23 +0000  building file list ... 
+2023-01-07 03:46:23 +0000   0 files...2023-01-07 03:46:23 +0000   100 files...2023-01-07 03:46:23 +0000  177 files to consider
+2023-01-07 03:46:23 +0000  MathTime.app/
+2023-01-07 03:46:23 +0000  MathTime.app/AccessibilityResources.bundle/
+MathTime.app/AccessibilityResources.bundle/en.lproj/
+MathTime.app/Frameworks/
+MathTime.app/GT3Captcha.bundle/
+MathTime.app/GT3Captcha.bundle/ar.lproj/
+MathTime.app/GT3Captcha.bundle/bg.lproj/
+MathTime.app/GT3Captcha.bundle/cs.lproj/
+2023-01-07 03:46:23 +0000  MathTime.app/GT3Captcha.bundle/da.lproj/
+MathTime.app/GT3Captcha.bundle/de.lproj/
+MathTime.app/GT3Captcha.bundle/en.lproj/
+MathTime.app/GT3Captcha.bundle/es.lproj/
+MathTime.app/GT3Captcha.bundle/fi.lproj/
+MathTime.app/GT3Captcha.bundle/fr.lproj/
+MathTime.app/GT3Captcha.bundle/hu.lproj/
+MathTime.app/GT3Captcha.bundle/id.lproj/
+MathTime.app/GT3Captcha.bundle/it.lproj/
+MathTime.app/GT3Captcha.bundle/iw.lproj/
+MathTime.app/GT3Captcha.bundle/ja.lproj/
+MathTime.app/GT3Captcha.bundle/ko.lproj/
+MathTime.app/GT3Captcha.bundle/nl.lproj/
+MathTime.app/GT3Captcha.bundle/pl.lproj/
+MathTime.app/GT3Captcha.bundle/pt.lproj/
+MathTime.app/GT3Captcha.bundle/ro.lproj/
+MathTime.app/GT3Captcha.bundle/ru.lproj/
+MathTime.app/GT3Captcha.bundle/sk.lproj/
+MathTime.app/GT3Captcha.bundle/sr.lproj/
+MathTime.app/GT3Captcha.bundle/sv.lproj/
+MathTime.app/GT3Captcha.bundle/th.lproj/
+MathTime.app/GT3Captcha.bundle/tr.lproj/
+MathTime.app/GT3Captcha.bundle/uk.lproj/
+MathTime.app/GT3Captcha.bundle/vi.lproj/
+MathTime.app/GT3Captcha.bundle/zh-CN.lproj/
+MathTime.app/GT3Captcha.bundle/zh-HK.lproj/
+MathTime.app/GT3Captcha.bundle/zh-TW.lproj/
+MathTime.app/GTCaptcha4.bundle/
+MathTime.app/GTCaptcha4.bundle/en.lproj/
+MathTime.app/GTCaptcha4.bundle/zh-CN.lproj/
+MathTime.app/IQKeyboardManager.bundle/
+MathTime.app/IQKeyboardManager.bundle/de.lproj/
+MathTime.app/IQKeyboardManager.bundle/en.lproj/
+MathTime.app/IQKeyboardManager.bundle/es.lproj/
+MathTime.app/IQKeyboardManager.bundle/fr.lproj/
+MathTime.app/IQKeyboardManager.bundle/zh-Hans/
+MathTime.app/IQKeyboardManager.bundle/zh-Hant/
+MathTime.app/LaunchScreen.storyboardc/
+MathTime.app/_CodeSignature/
+MathTime.app/assets/
+MathTime.app/assets/Assets/
+MathTime.app/assets/node_modules/
+MathTime.app/assets/node_modules/@react-navigation/
+MathTime.app/assets/node_modules/@react-navigation/stack/
+MathTime.app/assets/node_modules/@react-navigation/stack/src/
+MathTime.app/assets/node_modules/@react-navigation/stack/src/views/
+MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/
+MathTime.app/mathtime.bundle/
+MathTime.app/mathtime.bundle/.vscode/
+MathTime.app/mathtime.bundle/images/
+MathTime.app/mathtime.bundle/media/
+2023-01-07 03:46:23 +0000  
+2023-01-07 03:46:23 +0000  /usr/bin/rsync exited with 0
+2023-01-07 03:46:23 +0000  sent 4.90K bytes  received 374 bytes  10.53K bytes/sec
+total size is 57.05M  speedup is 11099.05
+2023-01-07 03:46:23 +0000  Running /usr/bin/rsync '-8aPhhE' '/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/dSYMs/' '--link-dest' '/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/dSYMs/' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs'
+2023-01-07 03:46:23 +0000  building file list ... 
+2023-01-07 03:46:23 +0000   0 files...2023-01-07 03:46:23 +0000  7 files to consider
+2023-01-07 03:46:23 +0000  ./
+2023-01-07 03:46:23 +0000  MathTime.app.dSYM/
+MathTime.app.dSYM/Contents/
+2023-01-07 03:46:23 +0000  MathTime.app.dSYM/Contents/Resources/
+MathTime.app.dSYM/Contents/Resources/DWARF/
+2023-01-07 03:46:23 +0000  
+sent 242 bytes  received 50 bytes  584.00 bytes/sec
+total size is 43.53M  speedup is 156317.88
+2023-01-07 03:46:23 +0000  /usr/bin/rsync exited with 0
+2023-01-07 03:46:23 +0000  Running /Applications/Xcode.app/Contents/Developer/usr/bin/symbols '-noTextInSOD' '-noDaemon' '-arch' 'all' '-symbolsPackageDir' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Symbols' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/MathTime.app.dSYM/Contents/Resources/Dwarf/MathTime'
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/MathTime.app.dSYM/Contents/Resources/Dwarf/MathTime [arm64, 1.178865 seconds]:
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/usr/bin/symbols exited with 0
+2023-01-07 03:46:25 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2023-01-07 03:46:25 +0000  Running /usr/bin/ditto '-V' '/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/SwiftSupport' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/SwiftSupport'
+2023-01-07 03:46:25 +0000  >>> Copying /Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/SwiftSupport 
+2023-01-07 03:46:25 +0000  copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2023-01-07 03:46:25 +0000  534085 bytes for ./iphoneos/libswiftCoreImage.dylib
+copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2023-01-07 03:46:25 +0000  853774 bytes for ./iphoneos/libswiftObjectiveC.dylib
+2023-01-07 03:46:25 +0000  copying file ./iphoneos/libswiftCore.dylib ... 
+2023-01-07 03:46:25 +0000  140528730 bytes for ./iphoneos/libswiftCore.dylib
+copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2023-01-07 03:46:25 +0000  2727566 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+copying file ./iphoneos/libswiftUIKit.dylib ... 
+2023-01-07 03:46:25 +0000  2211816 bytes for ./iphoneos/libswiftUIKit.dylib
+2023-01-07 03:46:25 +0000  copying file ./iphoneos/libswiftMetal.dylib ... 
+2023-01-07 03:46:25 +0000  897384 bytes for ./iphoneos/libswiftMetal.dylib
+copying file ./iphoneos/libswiftDispatch.dylib ... 
+2023-01-07 03:46:25 +0000  5501554 bytes for ./iphoneos/libswiftDispatch.dylib
+2023-01-07 03:46:25 +0000  copying file ./iphoneos/libswiftos.dylib ... 
+2023-01-07 03:46:25 +0000  1136939 bytes for ./iphoneos/libswiftos.dylib
+copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2023-01-07 03:46:25 +0000  503807 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+copying file ./iphoneos/libswiftDarwin.dylib ... 
+2023-01-07 03:46:25 +0000  1412501 bytes for ./iphoneos/libswiftDarwin.dylib
+copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+2023-01-07 03:46:25 +0000  580261 bytes for ./iphoneos/libswiftQuartzCore.dylib
+copying file ./iphoneos/libswiftFoundation.dylib ... 
+2023-01-07 03:46:25 +0000  62290500 bytes for ./iphoneos/libswiftFoundation.dylib
+2023-01-07 03:46:25 +0000  /usr/bin/ditto exited with 0
+2023-01-07 03:46:25 +0000  Processing step: IDEDistributionAppThinningStep
+2023-01-07 03:46:25 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-01-07 03:46:25 +0000  Processing step: IDEDistributionArchThinningStep
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2023-01-07 03:46:25 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2023-01-07 03:46:25 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/MathTime' '-verify_arch' 'arm64e'
+2023-01-07 03:46:25 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-01-07 03:46:25 +0000  Skipping architecture thinning for item "MathTime" because arch "arm64e" wasn't found
+2023-01-07 03:46:25 +0000  Processing step: IDEDistributionODRStep
+2023-01-07 03:46:25 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd5834dcb20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5839bc780; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd594949900; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd583a6c5e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58aa73c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd594949900; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd579124700; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58ee45ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57969fef0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd57a6a7370; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579673580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57a5fcae0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd580456ba0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577172ac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5796e9520; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd58409e030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd567f2d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56e0f4e90; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd5787b51c0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5843f3630; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56f05e010; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd58271e220; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579180d00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57969fef0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd56f472280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577ae7e10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57f8b1680; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd595cd72a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5964a7e20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5676618d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd580421e20; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583a7c1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5676618d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fd583a801a0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd580c923c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5676618d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>
+2023-01-07 03:46:25 +0000  Running /usr/bin/xattr '-crs' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app'
+2023-01-07 03:46:25 +0000  /usr/bin/xattr exited with 0
+2023-01-07 03:46:25 +0000  Processing step: IDEDistributionCodesignStep
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd5834dcb20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5839bc780; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5772b37e0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd5834dcb20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5839bc780; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd58000ffc0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd5834dcb20; bundleID='com.apple.dt.runtime.swiftCore', path='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5839bc780; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5800bcf50; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCore', executablePath='<DVTFilePath:0x7fd595a19910:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~Poa3TV
+2023-01-07 03:46:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~Poa3TV' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib'
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2023-01-07 03:46:25 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd583a6c5e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58aa73c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5800100f0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd583a6c5e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58aa73c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577205e70; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd583a6c5e0; bundleID='com.apple.dt.runtime.swiftCoreFoundation', path='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58aa73c60; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577e9cad0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreFoundation', executablePath='<DVTFilePath:0x7fd578bff760:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~dfSp8i
+2023-01-07 03:46:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~dfSp8i' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2023-01-07 03:46:25 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd579124700; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58ee45ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56e031250; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd579124700; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58ee45ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd570c331d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd579124700; bundleID='com.apple.dt.runtime.swiftCoreGraphics', path='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd58ee45ea0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57a57e580; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreGraphics', executablePath='<DVTFilePath:0x7fd578b32220:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~e5OGGE
+2023-01-07 03:46:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~e5OGGE' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2023-01-07 03:46:25 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd57a6a7370; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579673580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56e07ba90; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd57a6a7370; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579673580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57705baa0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd57a6a7370; bundleID='com.apple.dt.runtime.swiftCoreImage', path='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579673580; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57d640cf0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftCoreImage', executablePath='<DVTFilePath:0x7fd591510cb0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftCoreImage.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~Xi4XsF
+2023-01-07 03:46:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~Xi4XsF' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib'
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2023-01-07 03:46:25 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd580456ba0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577172ac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd567623210; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:25 +0000  Entitlements for <IDEDistributionItem: 0x7fd580456ba0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577172ac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57a554f60; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:25 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd580456ba0; bundleID='com.apple.dt.runtime.swiftDarwin', path='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577172ac0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56828fdd0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDarwin', executablePath='<DVTFilePath:0x7fd5821413a0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDarwin.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~563zIL
+2023-01-07 03:46:25 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~563zIL' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib'
+2023-01-07 03:46:25 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd58409e030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd567f2d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57d640cf0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd58409e030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd567f2d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577071ed0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd58409e030; bundleID='com.apple.dt.runtime.swiftDispatch', path='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd567f2d3b0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd56828fdd0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftDispatch', executablePath='<DVTFilePath:0x7fd596533a20:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftDispatch.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~rK77rc
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~rK77rc' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd5787b51c0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5843f3630; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5834951c0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd5787b51c0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5843f3630; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57dbac260; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd5787b51c0; bundleID='com.apple.dt.runtime.swiftFoundation', path='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5843f3630; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57960b580; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftFoundation', executablePath='<DVTFilePath:0x7fd583952ea0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftFoundation.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~jDine0
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~jDine0' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd58271e220; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579180d00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd58003fe70; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd58271e220; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579180d00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd583f39df0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd58271e220; bundleID='com.apple.dt.runtime.swiftMetal', path='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd579180d00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd579612a90; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftMetal', executablePath='<DVTFilePath:0x7fd5811a0d60:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftMetal.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~816b1W
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~816b1W' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd56f472280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577ae7e10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57a596930; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd56f472280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577ae7e10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5676618d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd56f472280; bundleID='com.apple.dt.runtime.swiftObjectiveC', path='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd577ae7e10; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd58409b8e0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftObjectiveC', executablePath='<DVTFilePath:0x7fd5805d4fe0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~H3maIH
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~H3maIH' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd595cd72a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5964a7e20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5800b0af0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd595cd72a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5964a7e20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57dbac260; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd595cd72a0; bundleID='com.apple.dt.runtime.swiftQuartzCore', path='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd5964a7e20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd583459c10; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftQuartzCore', executablePath='<DVTFilePath:0x7fd583a5c650:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~EsSedT
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~EsSedT' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd580421e20; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583a7c1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd583ef1430; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd580421e20; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583a7c1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd595ce7710; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd580421e20; bundleID='com.apple.dt.runtime.swiftUIKit', path='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583a7c1e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57a42af80; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftUIKit', executablePath='<DVTFilePath:0x7fd580f34200:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftUIKit.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~qUCCkL
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~qUCCkL' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd583a801a0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd580c923c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd5770546d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'>: {
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd583a801a0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd580c923c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd577070360; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> are: {
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd583a801a0; bundleID='com.apple.dt.runtime.swiftos', path='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd580c923c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd57706d5c0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='(null)', teamID='H522JGR2Y5', identifier='com.apple.dt.runtime.swiftos', executablePath='<DVTFilePath:0x7fd5850e2860:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/Frameworks/libswiftos.dylib'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~Oi6ds3
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~Oi6ds3' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib: replacing existing signature
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2023-01-07 03:46:26 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd56ab52a60; bundleID='com.c7new.stage', path='<DVTFilePath:0x7fd576736280:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583906990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd58003fd20; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='{
+    "application-identifier" = "H522JGR2Y5.com.c7new.stage";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = H522JGR2Y5;
+    "get-task-allow" = 1;
+}', teamID='H522JGR2Y5', identifier='com.c7new.stage', executablePath='<DVTFilePath:0x7fd56abbd3e0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/MathTime'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "H522JGR2Y5.com.c7new.stage";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = H522JGR2Y5;
+    "get-task-allow" = 0;
+}
+2023-01-07 03:46:26 +0000  Entitlements for <IDEDistributionItem: 0x7fd56ab52a60; bundleID='com.c7new.stage', path='<DVTFilePath:0x7fd576736280:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583906990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd567623260; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='{
+    "application-identifier" = "H522JGR2Y5.com.c7new.stage";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = H522JGR2Y5;
+    "get-task-allow" = 1;
+}', teamID='H522JGR2Y5', identifier='com.c7new.stage', executablePath='<DVTFilePath:0x7fd56abbd3e0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/MathTime'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "H522JGR2Y5.com.c7new.stage";
+    "aps-environment" = production;
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = H522JGR2Y5;
+    "get-task-allow" = 0;
+}
+2023-01-07 03:46:26 +0000  Writing entitlements for <IDEDistributionItem: 0x7fd56ab52a60; bundleID='com.c7new.stage', path='<DVTFilePath:0x7fd576736280:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fd583906990; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fd580cdf2d0; name='Apple Development: WenXuan Lai (AV8QMPG3BH)', hash='0B579564977A8076EC6F4B0A1F925E599F8561A5', serialNumber='7437D8EB07157C87F97A3FDBB563A74C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-15 03:25:11 +0000''>', entitlements='{
+    "application-identifier" = "H522JGR2Y5.com.c7new.stage";
+    "aps-environment" = development;
+    "com.apple.developer.team-identifier" = H522JGR2Y5;
+    "get-task-allow" = 1;
+}', teamID='H522JGR2Y5', identifier='com.c7new.stage', executablePath='<DVTFilePath:0x7fd56abbd3e0:'/Users/alen_li/Library/Developer/Xcode/Archives/2023-01-07/MathTime-STAGE 2023-1-7, 11.43 AM.xcarchive/Products/Applications/MathTime.app/MathTime'>', hardenedRuntime='0'>'> to: /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~lwluAy
+2023-01-07 03:46:26 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4F64B44600FDFC827BD8CD23E942C88E25EEB122' '--entitlements' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/entitlements~~~lwluAy' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app'
+2023-01-07 03:46:26 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app: replacing existing signature
+2023-01-07 03:46:27 +0000  /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app: signed app bundle with Mach-O thin (arm64) [com.c7new.stage]
+2023-01-07 03:46:27 +0000  /usr/bin/codesign exited with 0
+2023-01-07 03:46:27 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-01-07 03:46:27 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-01-07 03:46:27 +0000  Running /usr/bin/rsync '-8aPhhE' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Symbols' '--link-dest' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root'
+2023-01-07 03:46:27 +0000  building file list ... 
+2023-01-07 03:46:27 +0000   0 files...2023-01-07 03:46:27 +0000  2 files to consider
+2023-01-07 03:46:27 +0000  Symbols/
+2023-01-07 03:46:27 +0000  
+2023-01-07 03:46:27 +0000  sent 144 bytes  received 26 bytes  340.00 bytes/sec
+total size is 21.98M  speedup is 135573.25
+2023-01-07 03:46:27 +0000  /usr/bin/rsync exited with 0
+2023-01-07 03:46:27 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root' '/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Packages/MathTime.ipa'
+2023-01-07 03:46:27 +0000  >>> Copying /var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root 
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/_CodeSignature/CodeResources ... 
+2023-01-07 03:46:27 +0000  36480 bytes for ./Payload/MathTime.app/_CodeSignature/CodeResources
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/de.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  635 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/de.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/ar.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  710 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/ar.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/ja.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  509 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/ja.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/zh-TW.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  458 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/zh-TW.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/iw.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  600 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/iw.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/en.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  317 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/en.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/uk.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  758 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/uk.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/zh-HK.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  454 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/zh-HK.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/es.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  579 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/es.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/da.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  595 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/da.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/resource.js ... 
+2023-01-07 03:46:27 +0000  195428 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/resource.js
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/it.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  553 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/it.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/bg.lproj/GT3Captcha.strings ... 
+702 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/bg.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/sk.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  687 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/sk.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/sr.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  653 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/sr.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/sv.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  615 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/sv.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/cs.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  679 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/cs.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/ko.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  532 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/ko.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/hu.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  753 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/hu.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/Assets.car ... 
+2023-01-07 03:46:27 +0000  73087 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/Assets.car
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/tr.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  627 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/tr.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/pl.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  691 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/pl.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/vi.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  664 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/vi.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/ru.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  680 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/ru.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/zh-CN.lproj/GT3Captcha.strings ... 
+482 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/zh-CN.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/fr.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  653 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/fr.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/fi.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  620 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/fi.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/id.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  569 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/id.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/nl.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  600 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/nl.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/th.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  686 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/th.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/pt.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  561 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/pt.lproj/GT3Captcha.strings
+copying file ./Payload/MathTime.app/GT3Captcha.bundle/ro.lproj/GT3Captcha.strings ... 
+2023-01-07 03:46:27 +0000  665 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/ro.lproj/GT3Captcha.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GT3Captcha.bundle/Info.plist ... 
+2023-01-07 03:46:27 +0000  817 bytes for ./Payload/MathTime.app/GT3Captcha.bundle/Info.plist
+copying file ./Payload/MathTime.app/GTCaptcha4.bundle/en.lproj/GTCaptcha4.strings ... 
+2023-01-07 03:46:27 +0000  380 bytes for ./Payload/MathTime.app/GTCaptcha4.bundle/en.lproj/GTCaptcha4.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GTCaptcha4.bundle/gt4-loading.gif ... 
+2023-01-07 03:46:27 +0000  28287 bytes for ./Payload/MathTime.app/GTCaptcha4.bundle/gt4-loading.gif
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GTCaptcha4.bundle/gt4-index.html ... 
+2023-01-07 03:46:27 +0000  12032 bytes for ./Payload/MathTime.app/GTCaptcha4.bundle/gt4-index.html
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GTCaptcha4.bundle/zh-CN.lproj/GTCaptcha4.strings ... 
+2023-01-07 03:46:27 +0000  528 bytes for ./Payload/MathTime.app/GTCaptcha4.bundle/zh-CN.lproj/GTCaptcha4.strings
+copying file ./Payload/MathTime.app/GTCaptcha4.bundle/Info.plist ... 
+2023-01-07 03:46:27 +0000  816 bytes for ./Payload/MathTime.app/GTCaptcha4.bundle/Info.plist
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/GTCaptcha4.bundle/gt4.js ... 
+2023-01-07 03:46:27 +0000  13512 bytes for ./Payload/MathTime.app/GTCaptcha4.bundle/gt4.js
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/AppIcon60x60@2x.png ... 
+2023-01-07 03:46:27 +0000  21459 bytes for ./Payload/MathTime.app/AppIcon60x60@2x.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:27 +0000  489 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings ... 
+2023-01-07 03:46:27 +0000  479 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings
+copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings ... 
+2023-01-07 03:46:27 +0000  479 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:27 +0000  474 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings
+copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings ... 
+2023-01-07 03:46:27 +0000  496 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png ... 
+2023-01-07 03:46:27 +0000  1786 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png
+copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png ... 
+2023-01-07 03:46:27 +0000  2164 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png ... 
+2023-01-07 03:46:27 +0000  1769 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png
+copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png ... 
+2023-01-07 03:46:27 +0000  1844 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png ... 
+2023-01-07 03:46:27 +0000  1815 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings ... 
+497 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/fr.lproj/IQKeyboardManager.strings
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png ... 
+2023-01-07 03:46:27 +0000  2177 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png
+copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png ... 
+2023-01-07 03:46:27 +0000  1764 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png ... 
+2023-01-07 03:46:27 +0000  1793 bytes for ./Payload/MathTime.app/IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png
+copying file ./Payload/MathTime.app/MathTime ... 
+2023-01-07 03:46:27 +0000  10364352 bytes for ./Payload/MathTime.app/MathTime
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/AccessibilityResources.bundle/en.lproj/Localizable.strings ... 
+530 bytes for ./Payload/MathTime.app/AccessibilityResources.bundle/en.lproj/Localizable.strings
+copying file ./Payload/MathTime.app/AccessibilityResources.bundle/Info.plist ... 
+2023-01-07 03:46:27 +0000  745 bytes for ./Payload/MathTime.app/AccessibilityResources.bundle/Info.plist
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/Assets.car ... 
+2023-01-07 03:46:27 +0000  4091791 bytes for ./Payload/MathTime.app/Assets.car
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/main.jsbundle ... 
+2023-01-07 03:46:27 +0000  2812596 bytes for ./Payload/MathTime.app/main.jsbundle
+copying file ./Payload/MathTime.app/bgm.mp3 ... 
+2023-01-07 03:46:27 +0000  239178 bytes for ./Payload/MathTime.app/bgm.mp3
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-01-07 03:46:27 +0000  2492 bytes for ./Payload/MathTime.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/MathTime.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-01-07 03:46:27 +0000  896 bytes for ./Payload/MathTime.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/MathTime.app/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/MathTime.app/LaunchScreen.storyboardc/Info.plist
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/index.html ... 
+2023-01-07 03:46:27 +0000  4324 bytes for ./Payload/MathTime.app/mathtime.bundle/index.html
+copying file ./Payload/MathTime.app/mathtime.bundle/loading-logo.png ... 
+2023-01-07 03:46:27 +0000  11230 bytes for ./Payload/MathTime.app/mathtime.bundle/loading-logo.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_s_button3-sheet0.png ... 
+1842 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_s_button3-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spri_black-sheet0.png ... 
+2023-01-07 03:46:27 +0000  44919 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spri_black-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/tiledbackground.png ... 
+2023-01-07 03:46:27 +0000  15065 bytes for ./Payload/MathTime.app/mathtime.bundle/images/tiledbackground.png
+copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_b_button-sheet0.png ... 
+2023-01-07 03:46:27 +0000  29941 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_b_button-sheet0.png
+copying file ./Payload/MathTime.app/mathtime.bundle/images/sprite3-sheet0.png ... 
+2023-01-07 03:46:27 +0000  170 bytes for ./Payload/MathTime.app/mathtime.bundle/images/sprite3-sheet0.png
+copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_b_title2-sheet0.png ... 
+2023-01-07 03:46:27 +0000  7744 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_b_title2-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_false-sheet0.png ... 
+2023-01-07 03:46:27 +0000  22426 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_false-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_true-sheet0.png ... 
+2023-01-07 03:46:27 +0000  18772 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_true-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_s_button2-sheet0.png ... 
+2023-01-07 03:46:27 +0000  7057 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_s_button2-sheet0.png
+copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_b_title-sheet0.png ... 
+2023-01-07 03:46:27 +0000  11392 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_b_title-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_s_button-sheet0.png ... 
+2023-01-07 03:46:27 +0000  35899 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_s_button-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_s_title-sheet0.png ... 
+2023-01-07 03:46:27 +0000  6071 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_s_title-sheet0.png
+copying file ./Payload/MathTime.app/mathtime.bundle/images/sprite-sheet0.png ... 
+2023-01-07 03:46:27 +0000  2049 bytes for ./Payload/MathTime.app/mathtime.bundle/images/sprite-sheet0.png
+copying file ./Payload/MathTime.app/mathtime.bundle/images/sprite2-sheet0.png ... 
+2023-01-07 03:46:27 +0000  428156 bytes for ./Payload/MathTime.app/mathtime.bundle/images/sprite2-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/images/spr_b_title3-sheet0.png ... 
+2023-01-07 03:46:27 +0000  68584 bytes for ./Payload/MathTime.app/mathtime.bundle/images/spr_b_title3-sheet0.png
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/jquery-3.4.1.min.js ... 
+2023-01-07 03:46:27 +0000  88145 bytes for ./Payload/MathTime.app/mathtime.bundle/jquery-3.4.1.min.js
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/c2runtime.js ... 
+2023-01-07 03:46:27 +0000  231267 bytes for ./Payload/MathTime.app/mathtime.bundle/c2runtime.js
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/data.js ... 
+2023-01-07 03:46:27 +0000  19269 bytes for ./Payload/MathTime.app/mathtime.bundle/data.js
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/.vscode/settings.json ... 
+40 bytes for ./Payload/MathTime.app/mathtime.bundle/.vscode/settings.json
+copying file ./Payload/MathTime.app/mathtime.bundle/appmanifest.json ... 
+2023-01-07 03:46:27 +0000  547 bytes for ./Payload/MathTime.app/mathtime.bundle/appmanifest.json
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/media/win1.ogg ... 
+2023-01-07 03:46:27 +0000  21041 bytes for ./Payload/MathTime.app/mathtime.bundle/media/win1.ogg
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/media/win2.ogg ... 
+2023-01-07 03:46:27 +0000  25083 bytes for ./Payload/MathTime.app/mathtime.bundle/media/win2.ogg
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/media/success0.ogg ... 
+2023-01-07 03:46:27 +0000  31756 bytes for ./Payload/MathTime.app/mathtime.bundle/media/success0.ogg
+copying file ./Payload/MathTime.app/mathtime.bundle/media/punch-sound.ogg ... 
+2023-01-07 03:46:27 +0000  9684 bytes for ./Payload/MathTime.app/mathtime.bundle/media/punch-sound.ogg
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/media/brbr.ogg ... 
+2023-01-07 03:46:27 +0000  16435 bytes for ./Payload/MathTime.app/mathtime.bundle/media/brbr.ogg
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/media/bubble0.ogg ... 
+2023-01-07 03:46:27 +0000  5495 bytes for ./Payload/MathTime.app/mathtime.bundle/media/bubble0.ogg
+copying file ./Payload/MathTime.app/mathtime.bundle/media/poc1.ogg ... 
+2023-01-07 03:46:27 +0000  5450 bytes for ./Payload/MathTime.app/mathtime.bundle/media/poc1.ogg
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/mathtime.bundle/media/gameovercute0.ogg ... 
+2023-01-07 03:46:27 +0000  19912 bytes for ./Payload/MathTime.app/mathtime.bundle/media/gameovercute0.ogg
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib ... 
+2023-01-07 03:46:27 +0000  253632 bytes for ./Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib ... 
+2023-01-07 03:46:27 +0000  302640 bytes for ./Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib
+2023-01-07 03:46:27 +0000  copying file ./Payload/MathTime.app/Frameworks/libswiftCore.dylib ... 
+2023-01-07 03:46:28 +0000  16915040 bytes for ./Payload/MathTime.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2023-01-07 03:46:28 +0000  646848 bytes for ./Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftUIKit.dylib ... 
+2023-01-07 03:46:28 +0000  477152 bytes for ./Payload/MathTime.app/Frameworks/libswiftUIKit.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftMetal.dylib ... 
+2023-01-07 03:46:28 +0000  298096 bytes for ./Payload/MathTime.app/Frameworks/libswiftMetal.dylib
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/Frameworks/libswiftDispatch.dylib ... 
+2023-01-07 03:46:28 +0000  1018912 bytes for ./Payload/MathTime.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftos.dylib ... 
+2023-01-07 03:46:28 +0000  299424 bytes for ./Payload/MathTime.app/Frameworks/libswiftos.dylib
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2023-01-07 03:46:28 +0000  253776 bytes for ./Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftDarwin.dylib ... 
+2023-01-07 03:46:28 +0000  369728 bytes for ./Payload/MathTime.app/Frameworks/libswiftDarwin.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib ... 
+2023-01-07 03:46:28 +0000  256864 bytes for ./Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib
+copying file ./Payload/MathTime.app/Frameworks/libswiftFoundation.dylib ... 
+2023-01-07 03:46:28 +0000  8479536 bytes for ./Payload/MathTime.app/Frameworks/libswiftFoundation.dylib
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/embedded.mobileprovision ... 
+2023-01-07 03:46:28 +0000  16267 bytes for ./Payload/MathTime.app/embedded.mobileprovision
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/app.json ... 
+2023-01-07 03:46:28 +0000  53 bytes for ./Payload/MathTime.app/assets/app.json
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png ... 
+2023-01-07 03:46:28 +0000  761 bytes for ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@3x.png
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png ... 
+2023-01-07 03:46:28 +0000  405 bytes for ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon@2x.png
+copying file ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png ... 
+2023-01-07 03:46:28 +0000  290 bytes for ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon.png
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png ... 
+2023-01-07 03:46:28 +0000  913 bytes for ./Payload/MathTime.app/assets/node_modules/@react-navigation/stack/src/views/assets/back-icon-mask.png
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/Assets/loading.gif ... 
+2023-01-07 03:46:28 +0000  37021 bytes for ./Payload/MathTime.app/assets/Assets/loading.gif
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/Assets/nameC.png ... 
+2023-01-07 03:46:28 +0000  15665 bytes for ./Payload/MathTime.app/assets/Assets/nameC.png
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/Assets/startC.png ... 
+2023-01-07 03:46:28 +0000  6803 bytes for ./Payload/MathTime.app/assets/Assets/startC.png
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/assets/Assets/bg.png ... 
+2023-01-07 03:46:28 +0000  180359 bytes for ./Payload/MathTime.app/assets/Assets/bg.png
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/Info.plist ... 
+1967 bytes for ./Payload/MathTime.app/Info.plist
+2023-01-07 03:46:28 +0000  copying file ./Payload/MathTime.app/PkgInfo ... 
+8 bytes for ./Payload/MathTime.app/PkgInfo
+2023-01-07 03:46:28 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2023-01-07 03:46:28 +0000  466448 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+2023-01-07 03:46:28 +0000  copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2023-01-07 03:46:28 +0000  679568 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+2023-01-07 03:46:28 +0000  copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2023-01-07 03:46:33 +0000  95497472 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+2023-01-07 03:46:33 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2023-01-07 03:46:33 +0000  2040928 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+2023-01-07 03:46:33 +0000  copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2023-01-07 03:46:33 +0000  1608688 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+2023-01-07 03:46:33 +0000  copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2023-01-07 03:46:33 +0000  724304 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+2023-01-07 03:46:33 +0000  copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2023-01-07 03:46:34 +0000  4056784 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2023-01-07 03:46:34 +0000  857072 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+2023-01-07 03:46:34 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2023-01-07 03:46:34 +0000  450272 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+2023-01-07 03:46:34 +0000  copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2023-01-07 03:46:34 +0000  1091328 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+2023-01-07 03:46:34 +0000  copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2023-01-07 03:46:34 +0000  486224 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+2023-01-07 03:46:34 +0000  copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2023-01-07 03:46:36 +0000  43094208 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2023-01-07 03:46:36 +0000  copying file ./Symbols/D666C7E3-6020-34A8-8857-FF4A195B7E5C.symbols ... 
+2023-01-07 03:46:37 +0000  23047452 bytes for ./Symbols/D666C7E3-6020-34A8-8857-FF4A195B7E5C.symbols
+2023-01-07 03:46:37 +0000  /usr/bin/ditto exited with 0
+2023-01-07 03:46:37 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-01-07 03:46:37 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-01-07 03:46:37 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd570766c70:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd570766c70:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftQuartzCore.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd57d694ef0:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd57d694ef0:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftFoundation.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd567ab0d00:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd567ab0d00:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftMetal.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd570747c50:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd570747c50:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreGraphics.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd570758280:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd570758280:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftUIKit.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd5837c5490:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd5837c5490:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftos.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd570c97870:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd570c97870:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreImage.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd570c99770:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd570c99770:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftObjectiveC.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd57076d230:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd57076d230:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDispatch.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd57d619240:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd57d619240:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCoreFoundation.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd570c97fd0:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd570c97fd0:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftCore.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd57076dda0:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib'>
+2023-01-07 03:46:37 +0000  [OPTIONAL] Can't have a profile, not a bundle at <DVTFilePath:0x7fd57076dda0:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app/Frameworks/libswiftDarwin.dylib'>
+2023-01-07 03:46:37 +0000  IDEDistributionItem init <DVTFilePath:0x7fd581546e90:'/var/folders/wl/nfp606v56xngh6bxmrj6y5cc0000gp/T/XcodeDistPipeline.~~~PIxnQs/Root/Payload/MathTime.app'>
+2023-01-07 03:46:37 +0000  Processing step: IDEDistributionCreateManifestStep
+2023-01-07 03:46:37 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
